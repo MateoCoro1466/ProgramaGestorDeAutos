@@ -1,0 +1,919 @@
+# depslib dependency file v1.0
+1666898167 source:c:\users\admin\desktop\progamacion\codeblock\gestor_empresas_autos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"empleado.h"
+	"fecha.h"
+
+1666899421 c:\users\admin\desktop\progamacion\codeblock\gestor_empresas_autos\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666897882 c:\users\admin\desktop\progamacion\codeblock\gestor_empresas_autos\fecha.h
+
+1666899017 c:\users\admin\desktop\progamacion\codeblock\gestor_empresas_autos\cargarcadena.h
+
+1666898167 source:c:\users\user\desktop\gestor_empresas_autos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"empleado.h"
+	"fecha.h"
+
+1666899421 c:\users\user\desktop\gestor_empresas_autos\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666897882 c:\users\user\desktop\gestor_empresas_autos\fecha.h
+
+1666899017 c:\users\user\desktop\gestor_empresas_autos\cargarcadena.h
+
+1667050269 source:c:\users\elico\downloads\gestor-empresas-autos\gestor_empresas_autos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"fecha.h"
+	"empleado.h"
+
+1666899421 c:\users\elico\downloads\gestor-empresas-autos\gestor_empresas_autos\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666897882 c:\users\elico\downloads\gestor-empresas-autos\gestor_empresas_autos\fecha.h
+
+1666899017 c:\users\elico\downloads\gestor-empresas-autos\gestor_empresas_autos\cargarcadena.h
+
+1667238582 source:c:\users\user\desktop\gestor_empresar_auto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"gerente.h"
+	"vendedor.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1667145448 c:\users\user\desktop\gestor_empresar_auto\fecha.h
+
+1667240214 c:\users\user\desktop\gestor_empresar_auto\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666899017 c:\users\user\desktop\gestor_empresar_auto\cargarcadena.h
+
+1667141629 c:\users\user\desktop\gestor_empresar_auto\clientes.h
+
+1667311193 c:\users\user\desktop\gestor_empresar_auto\gerente.h
+
+1667311319 c:\users\user\desktop\gestor_empresar_auto\vendedor.h
+
+1667141895 c:\users\user\desktop\gestor_empresar_auto\ventas.h
+	"fecha.h"
+	"autos.h"
+	"vendedor.h"
+	"clientes.h"
+
+1667141874 c:\users\user\desktop\gestor_empresar_auto\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1667310262 c:\users\user\desktop\gestor_empresar_auto\menu.h
+
+1667238582 source:c:\users\admin\desktop\gestor_empresar_auto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"gerente.h"
+	"vendedor.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1667145448 c:\users\admin\desktop\gestor_empresar_auto\fecha.h
+
+1667240145 c:\users\admin\desktop\gestor_empresar_auto\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666899017 c:\users\admin\desktop\gestor_empresar_auto\cargarcadena.h
+
+1667141629 c:\users\admin\desktop\gestor_empresar_auto\clientes.h
+
+1667212110 c:\users\admin\desktop\gestor_empresar_auto\gerente.h
+
+1667143062 c:\users\admin\desktop\gestor_empresar_auto\vendedor.h
+
+1667141895 c:\users\admin\desktop\gestor_empresar_auto\ventas.h
+	"fecha.h"
+	"autos.h"
+	"vendedor.h"
+	"clientes.h"
+
+1667141874 c:\users\admin\desktop\gestor_empresar_auto\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1667239667 c:\users\admin\desktop\gestor_empresar_auto\menu.h
+
+1667333819 source:c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"gerente.h"
+	"vendedor.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1667145448 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\fecha.h
+
+1667240214 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666899017 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\cargarcadena.h
+
+1667334078 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\clientes.h
+
+1667311193 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\gerente.h
+
+1667334290 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\vendedor.h
+
+1667334609 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\ventas.h
+	"fecha.h"
+	"autos.h"
+	"vendedor.h"
+	"clientes.h"
+
+1667333936 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1667334432 c:\users\admin\desktop\gestor_empresar_auto version mate\gestor_empresar_auto\menu.h
+
+1667661278 source:c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1667145448 c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\fecha.h
+
+1667654870 c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666899017 c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\cargarcadena.h
+
+1667760325 c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\clientes.h
+
+1667761846 c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1667761028 c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1667760317 c:\users\user\desktop\gestor_empresar_auto version kloster\gestor_empresar_auto\menu.h
+
+1667661278 source:c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1667145448 c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\fecha.h
+
+1667787994 c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666899017 c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\cargarcadena.h
+
+1667788702 c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\clientes.h
+
+1667794098 c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1667788166 c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1667793669 c:\users\elico\onedrive\escritorio\gestor-empresar-auto version kloster (2)\gestor_empresar_auto version kloster\gestor_empresar_auto\menu.h
+
+1667914340 source:c:\users\admin\desktop\tp lab version eli\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1667145448 c:\users\admin\desktop\tp lab version eli\fecha.h
+
+1667915772 c:\users\admin\desktop\tp lab version eli\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666899017 c:\users\admin\desktop\tp lab version eli\cargarcadena.h
+
+1667915772 c:\users\admin\desktop\tp lab version eli\clientes.h
+
+1667915466 c:\users\admin\desktop\tp lab version eli\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1667915772 c:\users\admin\desktop\tp lab version eli\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1667914883 c:\users\admin\desktop\tp lab version eli\menu.h
+	"rlutil.h"
+
+1571569938 c:\users\admin\desktop\tp lab version eli\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668086876 source:c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1668088112 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\fecha.h
+
+1668109791 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1666899017 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\cargarcadena.h
+
+1668108192 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\clientes.h
+
+1668111220 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1668106674 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1668109410 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\menu.h
+	"rlutil.h"
+
+1571569938 c:\users\elico\onedrive\escritorio\tp lab version eli\tp lab version eli\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668546043 source:c:\users\admin\desktop\tplabfinal\v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1668088112 c:\users\admin\desktop\tplabfinal\v2\fecha.h
+
+1668604800 c:\users\admin\desktop\tplabfinal\v2\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\admin\desktop\tplabfinal\v2\cargarcadena.h
+
+1668603586 c:\users\admin\desktop\tplabfinal\v2\clientes.h
+
+1668605436 c:\users\admin\desktop\tplabfinal\v2\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1668605342 c:\users\admin\desktop\tplabfinal\v2\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1668552343 c:\users\admin\desktop\tplabfinal\v2\menu.h
+	"rlutil.h"
+
+1571569938 c:\users\admin\desktop\tplabfinal\v2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668546043 source:c:\users\elico\onedrive\escritorio\v2\v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"menu.h"
+
+1668088112 c:\users\elico\onedrive\escritorio\v2\v2\fecha.h
+
+1668604800 c:\users\elico\onedrive\escritorio\v2\v2\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\elico\onedrive\escritorio\v2\v2\cargarcadena.h
+
+1571569938 c:\users\elico\onedrive\escritorio\v2\v2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668603586 c:\users\elico\onedrive\escritorio\v2\v2\clientes.h
+
+1668862412 c:\users\elico\onedrive\escritorio\v2\v2\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+	"configuracion.h"
+
+1668605342 c:\users\elico\onedrive\escritorio\v2\v2\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1668552343 c:\users\elico\onedrive\escritorio\v2\v2\menu.h
+	"rlutil.h"
+
+1668862125 c:\users\elico\onedrive\escritorio\v2\v2\configuracion.h
+
+1669204614 source:c:\users\admin\desktop\tplabfinal\v4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+
+1668088112 c:\users\admin\desktop\tplabfinal\v4\fecha.h
+
+1668604800 c:\users\admin\desktop\tplabfinal\v4\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\admin\desktop\tplabfinal\v4\cargarcadena.h
+
+1571569938 c:\users\admin\desktop\tplabfinal\v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668603586 c:\users\admin\desktop\tplabfinal\v4\clientes.h
+
+1669204294 c:\users\admin\desktop\tplabfinal\v4\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1668605342 c:\users\admin\desktop\tplabfinal\v4\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1669204272 c:\users\admin\desktop\tplabfinal\v4\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1669205406 c:\users\admin\desktop\tplabfinal\v4\menu.h
+	"rlutil.h"
+
+1669204614 source:c:\users\elico\onedrive\escritorio\v4\v4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+
+1668088112 c:\users\elico\onedrive\escritorio\v4\v4\fecha.h
+
+1668604800 c:\users\elico\onedrive\escritorio\v4\v4\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\elico\onedrive\escritorio\v4\v4\cargarcadena.h
+
+1571569938 c:\users\elico\onedrive\escritorio\v4\v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668603586 c:\users\elico\onedrive\escritorio\v4\v4\clientes.h
+
+1669204294 c:\users\elico\onedrive\escritorio\v4\v4\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1668605342 c:\users\elico\onedrive\escritorio\v4\v4\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1669299567 c:\users\elico\onedrive\escritorio\v4\v4\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1669299303 c:\users\elico\onedrive\escritorio\v4\v4\menu.h
+	"rlutil.h"
+
+1669728578 source:c:\users\admin\desktop\tplabfinal\v5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+	"Reportes.h"
+
+1668088112 c:\users\admin\desktop\tplabfinal\v5\fecha.h
+
+1668604800 c:\users\admin\desktop\tplabfinal\v5\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\admin\desktop\tplabfinal\v5\cargarcadena.h
+
+1571569938 c:\users\admin\desktop\tplabfinal\v5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668603586 c:\users\admin\desktop\tplabfinal\v5\clientes.h
+
+1669204294 c:\users\admin\desktop\tplabfinal\v5\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1669332456 c:\users\admin\desktop\tplabfinal\v5\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1669332991 c:\users\admin\desktop\tplabfinal\v5\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1669728967 c:\users\admin\desktop\tplabfinal\v5\menu.h
+	"rlutil.h"
+	"Reportes.h"
+
+1669729070 c:\users\admin\desktop\tplabfinal\v5\reportes.h
+
+1669728578 source:c:\users\elico\onedrive\escritorio\v5\v5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+	"Reportes.h"
+
+1668088112 c:\users\elico\onedrive\escritorio\v5\v5\fecha.h
+
+1668604800 c:\users\elico\onedrive\escritorio\v5\v5\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\elico\onedrive\escritorio\v5\v5\cargarcadena.h
+
+1571569938 c:\users\elico\onedrive\escritorio\v5\v5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668603586 c:\users\elico\onedrive\escritorio\v5\v5\clientes.h
+
+1669204294 c:\users\elico\onedrive\escritorio\v5\v5\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1669332456 c:\users\elico\onedrive\escritorio\v5\v5\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1669332991 c:\users\elico\onedrive\escritorio\v5\v5\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1669852386 c:\users\elico\onedrive\escritorio\v5\v5\menu.h
+	"rlutil.h"
+	"Reportes.h"
+
+1669852955 c:\users\elico\onedrive\escritorio\v5\v5\reportes.h
+
+1669728578 source:c:\users\elico\onedrive\escritorio\v6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+	"Reportes.h"
+
+1668088112 c:\users\elico\onedrive\escritorio\v6\fecha.h
+
+1668604800 c:\users\elico\onedrive\escritorio\v6\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\elico\onedrive\escritorio\v6\cargarcadena.h
+
+1571569938 c:\users\elico\onedrive\escritorio\v6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668603586 c:\users\elico\onedrive\escritorio\v6\clientes.h
+
+1669204294 c:\users\elico\onedrive\escritorio\v6\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1669332456 c:\users\elico\onedrive\escritorio\v6\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1669332991 c:\users\elico\onedrive\escritorio\v6\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1669853613 c:\users\elico\onedrive\escritorio\v6\menu.h
+	"rlutil.h"
+	"Reportes.h"
+
+1669852955 c:\users\elico\onedrive\escritorio\v6\reportes.h
+
+1669894851 source:c:\users\user\desktop\m}\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+	"Reportes.h"
+
+1668088112 c:\users\user\desktop\m}\fecha.h
+
+1668604800 c:\users\user\desktop\m}\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\user\desktop\m}\cargarcadena.h
+
+1571569938 c:\users\user\desktop\m}\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668603586 c:\users\user\desktop\m}\clientes.h
+
+1669204294 c:\users\user\desktop\m}\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1669332456 c:\users\user\desktop\m}\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1669862200 c:\users\user\desktop\m}\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1669895610 c:\users\user\desktop\m}\menu.h
+	"rlutil.h"
+	"Reportes.h"
+
+1669856607 c:\users\user\desktop\m}\reportes.h
+
+1669909257 source:c:\users\admin\desktop\tplabfinal\v9\v9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+	"Reportes.h"
+
+1669910029 c:\users\admin\desktop\tplabfinal\v9\v9\fecha.h
+
+1670854393 c:\users\admin\desktop\tplabfinal\v9\v9\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+
+1666899017 c:\users\admin\desktop\tplabfinal\v9\v9\cargarcadena.h
+
+1571569938 c:\users\admin\desktop\tplabfinal\v9\v9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670853920 c:\users\admin\desktop\tplabfinal\v9\v9\clientes.h
+
+1670854703 c:\users\admin\desktop\tplabfinal\v9\v9\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1670854098 c:\users\admin\desktop\tplabfinal\v9\v9\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1670854703 c:\users\admin\desktop\tplabfinal\v9\v9\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1670854714 c:\users\admin\desktop\tplabfinal\v9\v9\menu.h
+	"rlutil.h"
+	"Reportes.h"
+
+1669909542 c:\users\admin\desktop\tplabfinal\v9\v9\reportes.h
+
+1670973844 source:c:\users\user\desktop\v9\v9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+	"configuracion.h"
+	"menu.h"
+	"Reportes.h"
+
+1670971036 c:\users\user\desktop\v9\v9\fecha.h
+
+1670975823 c:\users\user\desktop\v9\v9\empleado.h
+	"fecha.h"
+	"cargarCadena.h"
+	"rlutil.h"
+	<string>
+
+1670975787 c:\users\user\desktop\v9\v9\cargarcadena.h
+
+1571569938 c:\users\user\desktop\v9\v9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670975848 c:\users\user\desktop\v9\v9\clientes.h
+
+1670854703 c:\users\user\desktop\v9\v9\ventas.h
+	"fecha.h"
+	"autos.h"
+	"clientes.h"
+
+1670854098 c:\users\user\desktop\v9\v9\autos.h
+	"fecha.h"
+	"cargarCadena.h"
+
+1670854703 c:\users\user\desktop\v9\v9\configuracion.h
+	"empleado.h"
+	"clientes.h"
+	"ventas.h"
+	"autos.h"
+
+1670854714 c:\users\user\desktop\v9\v9\menu.h
+	"rlutil.h"
+	"Reportes.h"
+
+1669909542 c:\users\user\desktop\v9\v9\reportes.h
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Gestor_Empresas_Autos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Gestor_Empresas_Autos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Gestor_Empresas_Autos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Reportes.h" />
+		<Unit filename="autos.h" />
+		<Unit filename="cargarCadena.h" />
+		<Unit filename="clientes.h" />
+		<Unit filename="configuracion.h" />
+		<Unit filename="empleado.h" />
+		<Unit filename="fecha.h" />
+		<Unit filename="gerente.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="vendedor.h" />
+		<Unit filename="ventas.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
